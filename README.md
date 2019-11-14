@@ -1,4 +1,4 @@
-# GERADOR-DE-DADOS-FAKE
+# Gerador de dados fake
 
 Extensão pro chrome que gera dados fake de pessoas
 a partir do site https://4devs.com.br/
